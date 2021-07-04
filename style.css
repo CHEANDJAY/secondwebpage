@@ -1,0 +1,95 @@
+
+.container{
+	width: 1080px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.author-page{
+	float: left;
+	/*margin-left: 1800px;*/
+	padding-left: 15%;
+	width: 30%;
+
+}
+
+.left-post{
+	width: 70%;
+	float: left;
+}
+
+
+a {
+	color: orangered;
+}
+
+a:hover {
+	color: darkgreen;
+}
+
+
+body {
+	text-align: justify;
+	color: darkblue;
+	font-family: fantasy;
+	
+}
+
+
+h1 {
+	text-align: center;
+	margin-bottom: 25px;
+
+}
+h2 {
+	color: orangered;
+	margin-bottom: 15px;
+}
+
+h3{
+	font-size: 20px;
+	margin-top: 25px;
+	margin-bottom: 15px;
+	color: orangered;
+}
+.html-logo {
+	float: left;
+	margin-right:  15px;
+
+
+
+}
+
+.author-image {
+	float: left;
+	border-radius: 100%;
+	margin-top: 0px;
+	margin-right: 25px;
+	margin-left: 30px;
+	width: 150px;
+	height: 150px;
+}
+.author-name {
+	
+	margin-top: 72px;
+
+}
+
+h4{
+	color: orangered;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.author-title{
+	/*text-align: center;*/
+	margin-top: 20px;
+	margin-left: 815px;
+}
+
+.text-1{
+float: right;
+}
